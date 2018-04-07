@@ -157,3 +157,7 @@ Llegados a este paso, podremos seguir trabajando en mejorar tu aplicación. Si p
 Si tu aplicación es un MVP, aún tenemos mucho trabajo por hacer. Una vez terminada esta versión, comenzaremos a recibir el feedback de los usuarios, para realizar los cambios necesarios y agregar las funcionalidades que nos ayuden a encontrar el modelo de negocios.
 
 Después de este punto, es posible que nuestro proceso de trabajo sea más rápido y ágil, después de todo, ya tendremos cierta confianza trabajando juntos y ambos conoceremos bien los pasos a seguir. Naturalmente los precios de desarrollo seguirán cobrándose por funcionalidad.
+
+## Contrato
+
+[Proximamente](#)
